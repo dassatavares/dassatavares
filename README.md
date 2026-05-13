@@ -10,6 +10,8 @@ I build modern interfaces, responsive experiences and scalable web applications 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;React+%2B+Next.js+Developer;Creating+beautiful+digital+experiences" />
 
+**https://dassatavares.vercel.app**
+
 </div>
 
 ---
@@ -32,9 +34,6 @@ I build modern interfaces, responsive experiences and scalable web applications 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,typescript,react,nextjs,webpack" />
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
-
 ### Design & Tools
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,git,docker,linux,aws" />
 
@@ -45,10 +44,6 @@ I build modern interfaces, responsive experiences and scalable web applications 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dassatavares&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassatavares&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dassatavares&theme=tokyonight&hide_border=true"/>
 
@@ -82,7 +77,7 @@ I build modern interfaces, responsive experiences and scalable web applications 
 
 ## 📫 Contact
 
-- 📧 Email: **your-email@example.com**
+- 📧 Email: **dassaevtavares@gmail.com**
 - 💬 WhatsApp: **https://wa.me/5511958435982**
 - 🌐 Portfolio: **https://dassatavares.vercel.app**
 
