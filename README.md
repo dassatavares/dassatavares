@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Dassaev Tavares</h1>
 <h3 align="center">I'm a Developer and UX/UI Designer, feel free to reach me out.</h3>
 
-- 🔭 I’m currently working on **Magna Sistemas**
+- 🔭 I’m currently working on **Almaviva Solutions**
 
 - 🌱 I’m currently learning **typescript**
 
-- 💬 My skills **react, nextjs, figma, UI/UX**
+- 💬 My skills **wordpress, salesforce, javascript, php, react, nextjs, figma, UI/UX**
 
-- 📫 Contact me **dassaevtavares@gmail.com**
+- 📫 Contact me **[Whatsapp](https://wa.me/+5511958435982)**
 
-- 📝 Behance [https://www.behance.net/dassatavares](https://www.behance.net/dassatavares)
+- 📄 Website [figma.com/@dassatavares](https://dassatavares.vercel.app)
 
-- 👨‍💻 Linkedin [https://www.linkedin.com/in/dassatavares/](https://www.linkedin.com/in/dassatavares)
+- 📝 Behance [behance.net/dassatavares](https://www.behance.net/dassatavares)
 
-- 📄 Figma [https://www.figma.com/@dassatavares](https://www.figma.com/@dassatavares)
+- 👨‍💻 Linkedin [linkedin.com/in/dassatavares/](https://www.linkedin.com/in/dassatavares)
 
-- ⚡ Fun fact **I'm still poor in 2024**
+- 📄 Figma [figma.com/@dassatavares](https://www.figma.com/@dassatavares)
+
+- ⚡ Fun fact **I'm still poor in 2026**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
