@@ -2,7 +2,7 @@
 
 # Hey, I'm Dassaev Tavares 👋
 
-### Frontend Developer • UI/UX Designer • Creative Thinker
+### Frontend Developer • UI/UX Designer
 
 <p>
 I build modern interfaces, responsive experiences and scalable web applications with focus on performance, design and usability.
