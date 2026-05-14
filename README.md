@@ -10,7 +10,7 @@ I build modern interfaces, responsive experiences and scalable web applications 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;React+%2B+Next.js+Developer;Creating+beautiful+digital+experiences" />
 
-**[https://dassatavares.com](https://dassatavares.com/)**
+**[dassatavares.com](https://dassatavares.com/)**
 
 </div>
 
